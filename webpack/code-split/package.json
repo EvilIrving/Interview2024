@@ -1,0 +1,21 @@
+{
+  "name": "code-split",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webapck"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
